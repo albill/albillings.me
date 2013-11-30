@@ -1,15 +1,15 @@
-title:            Theurgia
+title:            Random Thoughts
 description:      Some thoughts on things.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://xn--kxaeeho7bo5a.com
+url:              http://albillings.me
 
 # Owner/author information
 owner:
   name:           Al
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          albill@email.com
+  bio:            "Former @openbuddha, Tabletop RPG Geek, Buddhist, Security Program Manager, Director at Ace Monster Toys (@AMT), an Oakland Hackerspace."
+  email:          albill@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        makehacklearn
   facebook:       albill
